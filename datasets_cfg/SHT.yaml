@@ -1,0 +1,10 @@
+path: Safety_Helmet_Train_dataset
+train: ./score/images/train
+val: ./score/images/val
+test: ./score/images/test
+
+# Classes
+names:
+  0: person
+  1: head
+  2: helmet
