@@ -22,4 +22,4 @@ for i, result in zip(range(len(img_ls)), results):
     print(cls)
     print(boxes.xywh)
 
-    print('----' * 20)
+    print('-----' * 20)
